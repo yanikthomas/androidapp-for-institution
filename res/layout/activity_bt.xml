@@ -1,0 +1,47 @@
+ <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+     
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:context=".Bt" >
+<TextView
+         android:id="@+id/deptbt"
+           android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:text="@string/deptbt" />
+    <TextView
+         android:id="@+id/accre"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_alignParentLeft="true"
+         android:layout_below="@+id/deptbt"
+         android:text="@string/accre" />
+   <ImageView
+         android:id="@+id/imageView4"
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:layout_alignParentLeft="true"
+         android:layout_alignParentTop="true"
+         android:layout_marginTop="34dp"
+         android:src="@drawable/bt" />
+    <TextView
+        android:id="@+id/bt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+          android:layout_below="@+id/imageView4"
+        />
+
+   
+     
+       
+ 
+
+</RelativeLayout>
+   </ScrollView>

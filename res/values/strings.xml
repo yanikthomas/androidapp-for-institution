@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NewTab</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="label1">college</string>
+    <string name="label2">deptartment</string>
+    <string name="body1">body one</string>
+    <string name="body2">body two</string>
+    <string name="title_activity_tab1_fragment">Tab1Fragment</string>
+    <string name="title_activity_tab2_fragment">Tab2Fragment</string>
+    <string name="title_activity_colg">Colg</string>
+    <string name="title_activity_dpt">Dpt</string>
+    <string name="title_activity_aso">Aso</string>
+    <string name="title_activity_plac">Plac</string>
+    <string name="college">college</string>
+    <string name="dept">dept</string>
+    <string name="asso">asso</string>
+    <string name="place">place</string>
+    <string name="title_activity_tab3_fragment">Tab3Fragment</string>
+    <string name="title_activity_tab4_fragment">Tab4Fragment</string>
+    <string name="label3">association</string>
+    <string name="label4">placement</string>
+    <string name="title_activity_ec">Ec</string>
+    <string name="title_activity_cs">Cs</string>
+    <string name="title_activity_bm">Bm</string>
+    <string name="title_activity_bt">Bt</string>
+    <string name="deptec">DEPARTMENT OF ELECTRONICS &amp; COMMUNICATION</string>
+    <string name="accre">Accredited by The Instution of Engineers(India)</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="deptcs">DEPARTMENT OF COMPUTER SCIENCE &amp; ENGINEERING</string>
+    <string name="deptbm">DEPARTMENT OF BIO MEDICAL ENGINEERING</string>
+    <string name="deptbt">DEPARTMENT OF BIO TECHNOLOGY ENGINEERING</string>
+    <string name="title_activity_emage">Emage</string>
+    <string name="title_activity_aces">Aces</string>
+    <string name="title_activity_ebsa">Ebsa</string>
+    <string name="title_activity_beats">Beats</string>
+    <string name="title_activity_train">Train</string>
+    <string name="title_activity_contact">Contact</string>
+
+</resources>

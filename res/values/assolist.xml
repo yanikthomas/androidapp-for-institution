@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="association">
+        <item>e-MAGE</item>
+        <item>ACES</item>
+        <item >EBSA</item>
+        <item>BEATS</item>
+    </string-array>
+    
+</resources>

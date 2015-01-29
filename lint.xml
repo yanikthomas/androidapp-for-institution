@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="ContentDescription">
+        <ignore path="res\layout\activity_bm.xml" />
+        <ignore path="res\layout\activity_bt.xml" />
+        <ignore path="res\layout\activity_cs.xml" />
+        <ignore path="res\layout\activity_ec.xml" />
+        <ignore path="res\layout\activity_splash.xml" />
+    </issue>
+</lint>

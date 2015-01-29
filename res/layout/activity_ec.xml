@@ -1,0 +1,45 @@
+  <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+       
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:context=".Ec" >
+<TextView
+         android:id="@+id/deptec"
+           android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:text="@string/deptec" />
+    <TextView
+         android:id="@+id/accre"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_alignParentLeft="true"
+         android:layout_below="@+id/deptec"
+         android:text="@string/accre" />
+   <ImageView
+         android:id="@+id/imageView1"
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:layout_alignParentLeft="true"
+         android:layout_alignParentTop="true"
+         android:layout_marginTop="34dp"
+         android:src="@drawable/elec" />
+    <TextView
+        android:id="@+id/ec"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+          android:layout_below="@+id/imageView1"
+        />
+
+  
+
+     
+  
+</RelativeLayout>
+  </ScrollView>

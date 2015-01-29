@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="home">
+        <item>college</item>
+        <item >dept</item>
+        <item >asso</item>
+        <item >place</item>
+    </string-array>
+    
+</resources>

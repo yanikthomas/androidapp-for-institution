@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="department">
+        <item>Electronics and Communication</item>
+        <item>ComputerScience and Engineering</item>
+        <item >Bio medical Engineering</item>
+        <item >Bio technology Engineering</item>
+    </string-array>
+    
+</resources>
